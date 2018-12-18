@@ -1,5 +1,4 @@
-def my_hash
-my_hash = {"Name" => "Marine Boudeau", "Age" => "32", "Status" => "Single"}
+def my_hash = {"Name" => "Alfatah Kader", "Home" => "Brooklyn", "Favorite Food" => "Ice Cream"}
 
   
 end
